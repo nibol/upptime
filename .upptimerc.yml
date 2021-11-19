@@ -11,7 +11,8 @@ sites:
     url: https://business.nibol.co
   - name: Host
     url: https://manager.nibol.co
-    
+assignees:
+  - pugia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +20,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/56720033?s=200
-  name: Upptime
+  name: Nibol Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
